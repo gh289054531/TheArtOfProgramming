@@ -1,5 +1,10 @@
 package chapter1;
 
+/**
+ * https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/01.0.md
+ * @author root
+ *
+ */
 public class Solution2 {
 	private static void Reverse(char[] s, int left, int right) {
 		while (left < right) {

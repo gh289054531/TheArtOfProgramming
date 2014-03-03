@@ -3,7 +3,7 @@ package chapter3_2;
 public class Solution1 {
 	/**
 	 * 三数取中值法的快排，最好、平均时间复杂度O(n*logn)，最坏时间复杂度O(n^2)，空间复杂度O(1)
-	 * 
+	 * https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/03.2.md
 	 * @param input
 	 * @param left
 	 * @param right

@@ -2,6 +2,11 @@ package chapter3_3;
 
 import java.util.Arrays;
 
+/**
+ * https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/03.3.md
+ * @author root
+ *
+ */
 public class Solution {
 	public static void Preprocess(Element[] input) throws Exception {
 		if (input == null || input.length == 0) {

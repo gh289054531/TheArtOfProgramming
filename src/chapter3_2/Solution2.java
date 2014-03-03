@@ -7,7 +7,7 @@ public class Solution2 {
 
 	/**
 	 * 五分中项的中项快速选择，平均时间复杂度O(n)，最坏时间复杂度O(n^2)最坏情况几乎不出现，空间复杂度O(1)
-	 * 
+	 * https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/03.2.md
 	 * @param input
 	 * @param left
 	 * @param right

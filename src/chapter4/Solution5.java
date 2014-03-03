@@ -2,6 +2,11 @@ package chapter4;
 
 import java.util.Arrays;
 
+/**
+ * https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/04.0.md
+ * @author root
+ *
+ */
 public class Solution5 {
 	/**
 	 * 
